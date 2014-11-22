@@ -1,4 +1,4 @@
-# Simplecov::Atlassian::Bamboo
+# Simplecov::Clover
 
 TODO: Write a gem description
 
