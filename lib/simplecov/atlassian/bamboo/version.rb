@@ -1,0 +1,7 @@
+module Simplecov
+  module Atlassian
+    module Bamboo
+      VERSION = "0.0.1"
+    end
+  end
+end
